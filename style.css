@@ -1,0 +1,9 @@
+.table{
+    border-collapse: separate;
+    margin-left: 350px;
+    margin-top: 200px;
+    
+}
+.row-1, .row-2{
+    background-color: rgb(221, 237, 250);
+}
